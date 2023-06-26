@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Detail App</string>
+    <string-array name="role">
+        <item>Select the Role :</item>
+        <item>Admin</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="adminrole">
+        <item>Select the Role :</item>
+        <item>Admin</item>
+
+    </string-array>
+</resources>

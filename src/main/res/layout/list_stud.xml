@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/roundcornerlist"
+    android:layout_margin="16dp"
+
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:text="Hello"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:id="@+id/rvText"
+        android:layout_weight="3"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_menu_24"
+        android:padding="10dp"
+        android:id="@+id/clickUpdate"
+        />
+
+
+
+
+
+</LinearLayout>
